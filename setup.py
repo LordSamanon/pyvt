@@ -11,7 +11,7 @@ setup(
     keywords='Virgina Tech Timetable API',
     packages=find_packages(),
     install_requires=[
-        'beautifulsoup4==4.5.1',
+        'beautifulsoup4>=4.5.1',
         'requests==2.12.4'
     ]
 )
